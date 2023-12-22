@@ -11,7 +11,7 @@ pyotp
 * Deployment instructions
 1. The git repository must be cloned
  ```bash
-git clone https://github.com/studentea10/info_system.git
+git clone https://github.com/studentea10/demoauth.git
 ```
 2. Install dependencies
 ```bash
